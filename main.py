@@ -28,8 +28,8 @@ password = config_info["PASSWORD"]
 xmlrpc_php = config_info["XMLRPC_PHP"]
 
 try:
-#    if(os.environ["USERNAME"]):
-#        username = os.environ["USERNAME"]
+    if(os.environ["USERNAME"]):
+        username = os.environ["USERNAME"]
 
     if(os.environ["PASSWORD"]):
         password = os.environ["PASSWORD"]
