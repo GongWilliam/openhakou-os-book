@@ -9,23 +9,9 @@ import json
 import markdown
 import re
 
-config_file_txt = ""
-
-if((os.path.exists(os.path.join(os.getcwd(), "diy_config.txt")) == True)):
-    config_file_txt = os.path.join(os.getcwd(), "diy_config.txt")
-else:
-    config_file_txt = os.path.join(os.getcwd(), "config.txt")
-
-config_info = {}
-
-
-with open (config_file_txt, 'rb') as f:
-    config_info = json.loads(f.read())
-
-
-username = config_info["USERNAME"]
-password = config_info["PASSWORD"]
-xmlrpc_php = config_info["XMLRPC_PHP"]
+username = ""
+password = ""
+xmlrpc_php = ""
 
 try:
     if(os.environ["USERNAME"]):
@@ -41,10 +27,7 @@ except:
 
 
 url_info = urlparse(xmlrpc_php)
-
 domain_name = url_info.netloc
-print(username)
-print(password)
 wp = Client(xmlrpc_php, username, password)
 
 # 获取已发布文章id列表
