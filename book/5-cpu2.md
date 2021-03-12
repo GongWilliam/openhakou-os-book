@@ -51,6 +51,6 @@ CPU 缓存主要是利用局部性原理将 CPU 的性能提升一大截。什�
 
 欢迎关注公众号：哈扣。
 
-
+![](https://i.loli.net/2021/03/12/Tt3uBvRqDQarMI2.jpg)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/cn/80x15.png" /></a> 本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>进行许可。
