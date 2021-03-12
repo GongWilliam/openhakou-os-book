@@ -60,3 +60,11 @@ categories:
 5. 集成电路。现在操作系统功能日渐完善，得益于硬件制造成本的降低，计算机开始进入普通家庭。
 
 操作系统是随着计算机性能越来越好的过程中发展出来的，因为单纯的人工操作已经不能满足计算机这么强大的性能了。
+
+
+
+欢迎关注公众号：哈扣。
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/cn/80x15.png" /></a> 本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>进行许可。
